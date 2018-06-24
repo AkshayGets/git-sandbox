@@ -3,3 +3,4 @@ Second commit operation
 Commiting skipping to add to the staging area
 demoooo
 ahskjdhajsdhajshdjhsak
+>>>>>>> 556b354f89e5a7776dc33c6d8627c271f49975e5
