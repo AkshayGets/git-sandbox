@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 developing a feature but not yet ready for the conflict.
 asdasdasd
 sdasdas
 adasd
+initial commit for a feature from my-project repo
