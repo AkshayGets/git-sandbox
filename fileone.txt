@@ -7,3 +7,5 @@ ahskjdhajsdhajshdjhsak-changes made to cause conflict
 =======
 ahskjdhajsdhajshdjhsak-some changes made to this line
 new line added from sandbox repo
+Inserting function one
+Inserting function two
