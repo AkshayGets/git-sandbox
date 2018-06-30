@@ -3,3 +3,4 @@ Second commit operation
 Commiting skipping to add to the staging area
 demoooo
 ahskjdhajsdhajshdjhsak
+committing from another folder as another user
