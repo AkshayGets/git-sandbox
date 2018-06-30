@@ -1,6 +1,15 @@
-This is the first commit.This line will be stored  in the repository
+ This is the first commit.This line will be stored  in the repository
 Second commit operation
 Commiting skipping to add to the staging area
 demoooo
+
 ahskjdhajsdhajshdjhsak
 committing from another folder as another user
+
+ahskjdhajsdhajshdjhsak-changes made to cause conflict
+
+ahskjdhajsdhajshdjhsak-some changes made to this line
+new line added from sandbox repo
+Inserting function one
+Inserting function two
+>>>>>>> c8ae669942553801a7448ddcb5c2c191fb58b1c3
