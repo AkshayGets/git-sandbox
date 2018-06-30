@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
  This is the first commit.This line will be stored  in the repository
 Second commit operation
 Commiting skipping to add to the staging area
@@ -15,3 +16,23 @@ Inserting function two
 >>>>>>> c8ae669942553801a7448ddcb5c2c191fb58b1c3
 
 information  to be statshed
+=======
+ This is tashe first commit.This line will be stored  in the repository
+Second codmmit operation
+Commitdasing skipping to add to the staging area
+demsdaoooo
+sda
+ahskjdadhajsdhajshdjhsak
+comasmitting from another folder as another user
+asd
+ahskjddasdhajsdhajshdjhsak-changes made to cause conflict
+dasdas
+ahskjdhajsdhajdasdasdshdjhsak-some changes made to this line
+new liasdasdasne added from sandbox repo
+Inadasserting function one
+daInsas
+erting function twsad
+asd;a
+d
+c8ae669942553801a7448ddcb5c2c191fb58b1c3
+>>>>>>> Stashed changes
