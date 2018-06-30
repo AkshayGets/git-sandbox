@@ -6,3 +6,4 @@ adasd
 initial commit for a feature from my-project repo
 finally fixed the bug
 developing a new feature
+working on a new feature
