@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asdasndassdkajhdkajhdakjdhkahsdajhdkajshdjkashdjkahkjdhajdhajhdkajdhakj
 dajbdkjahda
 dadasdljas'da
@@ -8,3 +9,5 @@ ad
 a
 da
 j
+asdasndassdkajhdkajhdakjdhkaj
+>>>>>>> feature_branch
